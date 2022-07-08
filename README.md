@@ -2,4 +2,4 @@
 
 ## Welcome to my NFT Free Preview by Front end MENTOR! 👋😎
 
-<a href= https://nftcardfrontendmentor.netlify.app/images/equilibrium.jpg>
+<img src= https://nftcardfrontendmentor.netlify.app/images/equilibrium.jpg>
